@@ -4,7 +4,7 @@
 
 - [![BR](https://b-r.io/logo/favicon-16x16.png)](https://brianruizy.com/) 
 Feel free to checkout my [portfolio](https://nssoftdev.nex-softwares.com/) website!
-- 🏢 Flutter Engineer [@Hines](https://www.hines.com/), in Houston TX
+- 🏢 Co-Founder & Flutter Engineer [@Trendz](https://www.trendz.fun/), in Lomé TG
 - 🧰 I build with: `Dart` `Flutter`, `JavaScript`, `Next.js`, `Firebase`,  `React.js`, `Tailwind` ...
 - ⚡ I enjoy coding, reading, playing video games, and lifting weights :)
 - 📫 Reach out to me: nssoftdev@gmail.com
